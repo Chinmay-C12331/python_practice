@@ -1,0 +1,5 @@
+a=input()
+b=input()
+less=int(a[0])
+great=int(b[-1])
+print(less < great)
