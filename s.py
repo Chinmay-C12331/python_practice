@@ -1,0 +1,5 @@
+a=input()
+print(int(a)>25)
+f=int(a[0])
+s=int(a[1])
+print(f > s)
