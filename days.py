@@ -1,0 +1,7 @@
+given_days=int(input())
+year = int(given_days/365)
+week = int((given_days-(365*year))/7)
+days = int((given_days-(365*year)-(7*week)))
+print(year)
+print(week)
+print(days)
