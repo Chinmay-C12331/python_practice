@@ -1,0 +1,5 @@
+n=int(input())
+year=int(n/365)
+week=int((n-(365*year))/7)
+day=int((n-(365*year))-(7*week))
+print(year,"years",week,"weeks",day,"days")
