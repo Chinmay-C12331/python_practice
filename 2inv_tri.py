@@ -3,7 +3,6 @@ num=-1
 j=0
 for i in range(0,n):
     i=n-i
-    #print(i)
     num+=1
     #print(num)
     if i==n:
