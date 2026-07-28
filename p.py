@@ -4,4 +4,4 @@ st=len(w2)
 half=w1[0:st]
 cont=w1[len(half):]
 print("*"*len(half)+cont)
-print("Sucessfully printed string with stars")
+
