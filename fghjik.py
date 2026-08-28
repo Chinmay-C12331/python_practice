@@ -1,0 +1,5 @@
+a=input()
+b=input()
+s=a.index(b)
+t=a.find(b)
+print(a,b)
